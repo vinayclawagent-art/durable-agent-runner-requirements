@@ -23,6 +23,7 @@ Cursor’s cloud-agent lessons map directly to Hermes/Mission Control: durable l
 
 ## Generated artifacts
 - Prototype: [[Durable Agent Runner Requirements/runner-readiness-checklist]]
+- Worked example: [[Durable Agent Runner Requirements/Worked Example - Mission Control Background Agent Gate]]
 - Infographic: [[Durable Agent Runner Requirements Workflow]]
 - Skill draft: [[durable-agent-runner-requirements/SKILL]]
 - Improvement loop: [[Durable Agent Runner Requirements Loop]]
@@ -40,9 +41,10 @@ Drafted as `durable-agent-runner-requirements`. Not promoted yet because it over
 https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 
 ## Improvement backlog
-- Add one worked example from an active VinClawLabs project.
+- Add one worked example from an active VinClawLabs project. ✅ Done with [[Durable Agent Runner Requirements/Worked Example - Mission Control Background Agent Gate]].
 - Convert the markdown prototype into a small interactive HTML checklist if usage repeats.
 - Decide whether to merge the skill draft into an existing skill or promote it.
 
 ## Change log
 - 2026-06-04: Created nightly package, prototype, skill draft, loop, and GitHub repo sync.
+- 2026-06-04: Added the Mission Control background-agent gate worked example and moved the first backlog item to done.
