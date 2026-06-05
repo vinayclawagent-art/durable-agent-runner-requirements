@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/durable-agent-runner-require
 score: 8
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-04
+last_improved: 2026-06-05
 tags: [artifact-package, x-intel, agent-workflows]
 ---
 
@@ -25,6 +25,7 @@ Cursor’s cloud-agent lessons map directly to Hermes/Mission Control: durable l
 - Prototype: [[Durable Agent Runner Requirements/runner-readiness-checklist]]
 - Interactive prototype: [[Durable Agent Runner Requirements/runner-readiness-checklist.html|runner-readiness-checklist.html]]
 - Worked example: [[Durable Agent Runner Requirements/Worked Example - Mission Control Background Agent Gate]]
+- Handoff summary: [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]]
 - Infographic: [[Durable Agent Runner Requirements Workflow]]
 - Skill draft: [[durable-agent-runner-requirements/SKILL]]
 - Improvement loop: [[Durable Agent Runner Requirements Loop]]
@@ -44,9 +45,11 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 ## Improvement backlog
 - Add one worked example from an active VinClawLabs project. ✅ Done with [[Durable Agent Runner Requirements/Worked Example - Mission Control Background Agent Gate]].
 - Convert the markdown prototype into a small interactive HTML checklist if usage repeats. ✅ Done with `runner-readiness-checklist.html`.
-- Decide whether to merge the skill draft into an existing skill or promote it.
+- Run `runner-readiness-checklist.html` against one Mission Control runner and archive the copied handoff summary. ✅ Done with [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]].
+- Decide whether to merge the skill draft into an existing skill or promote it after a live runner trial attaches durable logs.
 
 ## Change log
 - 2026-06-04: Created nightly package, prototype, skill draft, loop, and GitHub repo sync.
 - 2026-06-04: Added the Mission Control background-agent gate worked example and moved the first backlog item to done.
 - 2026-06-04: Added a browser-based readiness checklist with scoring, saved state, and copyable handoff summary.
+- 2026-06-05: Archived [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]] with a pilot-only decision, requirement scores, and promotion criteria.
