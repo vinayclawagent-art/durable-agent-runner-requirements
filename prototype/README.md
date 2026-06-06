@@ -6,6 +6,7 @@ Use `runner-readiness-checklist.md` before trusting a background/cloud agent run
 
 - [[Worked Example - Mission Control Background Agent Gate]] — turns the checklist into a concrete acceptance gate for adding a new background coding-agent runner to Mission Control.
 - [[Handoff Summary - Mission Control Background Agent Gate]] — archives a copied HTML-checklist handoff summary with pilot-only decision, requirement scores, blockers, and promotion criteria.
+- [[Runner Trial Evidence Attachment Template]] — adds the missing proof packet for the next live runner trial: branch proof, durable log, secret-safety scan, dependency changes, verification, and promotion decision.
 
 ## Next iteration
 
@@ -18,6 +19,6 @@ A requirements checklist for evaluating or building any cloud agent runner befor
 Open `runner-readiness-checklist.html` for an interactive score, or `runner-readiness-checklist.md` for the plain markdown version, and fill it against one concrete project/workflow.
 
 ## Next iteration ideas
-- Attach a durable log URL and `git status --short --branch` output from the next live runner trial to [[Handoff Summary - Mission Control Background Agent Gate]].
+- Fill [[Runner Trial Evidence Attachment Template]] during the next live runner trial, then attach it to [[Handoff Summary - Mission Control Background Agent Gate]].
 - Add export-to-markdown download after a real use proves the fields are stable.
 - Link one accepted runner trial back into the package note.

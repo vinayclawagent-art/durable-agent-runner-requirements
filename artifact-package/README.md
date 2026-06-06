@@ -26,6 +26,7 @@ Cursor’s cloud-agent lessons map directly to Hermes/Mission Control: durable l
 - Interactive prototype: [[Durable Agent Runner Requirements/runner-readiness-checklist.html|runner-readiness-checklist.html]]
 - Worked example: [[Durable Agent Runner Requirements/Worked Example - Mission Control Background Agent Gate]]
 - Handoff summary: [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]]
+- Evidence template: [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]]
 - Infographic: [[Durable Agent Runner Requirements Workflow]]
 - Skill draft: [[durable-agent-runner-requirements/SKILL]]
 - Improvement loop: [[Durable Agent Runner Requirements Loop]]
@@ -46,6 +47,7 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 - Add one worked example from an active VinClawLabs project. ✅ Done with [[Durable Agent Runner Requirements/Worked Example - Mission Control Background Agent Gate]].
 - Convert the markdown prototype into a small interactive HTML checklist if usage repeats. ✅ Done with `runner-readiness-checklist.html`.
 - Run `runner-readiness-checklist.html` against one Mission Control runner and archive the copied handoff summary. ✅ Done with [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]].
+- Create an attachable proof packet for the next live runner trial. ✅ Done with [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]].
 - Decide whether to merge the skill draft into an existing skill or promote it after a live runner trial attaches durable logs.
 
 ## Change log
@@ -53,3 +55,4 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 - 2026-06-04: Added the Mission Control background-agent gate worked example and moved the first backlog item to done.
 - 2026-06-04: Added a browser-based readiness checklist with scoring, saved state, and copyable handoff summary.
 - 2026-06-05: Archived [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]] with a pilot-only decision, requirement scores, and promotion criteria.
+- 2026-06-05: Added [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]] so the next live runner trial can attach branch proof, durable logs, secret-safety scan, dependency changes, and verification evidence.
