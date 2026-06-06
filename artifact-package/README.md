@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/durable-agent-runner-require
 score: 8
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-05
+last_improved: 2026-06-06
 tags: [artifact-package, x-intel, agent-workflows]
 ---
 
@@ -27,6 +27,7 @@ Cursor’s cloud-agent lessons map directly to Hermes/Mission Control: durable l
 - Worked example: [[Durable Agent Runner Requirements/Worked Example - Mission Control Background Agent Gate]]
 - Handoff summary: [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]]
 - Evidence template: [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]]
+- Decision card: [[Durable Agent Runner Requirements/Runner Promotion Decision Card]]
 - Infographic: [[Durable Agent Runner Requirements Workflow]]
 - Skill draft: [[durable-agent-runner-requirements/SKILL]]
 - Improvement loop: [[Durable Agent Runner Requirements Loop]]
@@ -48,6 +49,7 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 - Convert the markdown prototype into a small interactive HTML checklist if usage repeats. ✅ Done with `runner-readiness-checklist.html`.
 - Run `runner-readiness-checklist.html` against one Mission Control runner and archive the copied handoff summary. ✅ Done with [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]].
 - Create an attachable proof packet for the next live runner trial. ✅ Done with [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]].
+- Add a promotion decision card so live runner proof turns into an auditable promote / pilot-only / hold call. ✅ Done with [[Durable Agent Runner Requirements/Runner Promotion Decision Card]].
 - Decide whether to merge the skill draft into an existing skill or promote it after a live runner trial attaches durable logs.
 
 ## Change log
@@ -56,3 +58,4 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 - 2026-06-04: Added a browser-based readiness checklist with scoring, saved state, and copyable handoff summary.
 - 2026-06-05: Archived [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]] with a pilot-only decision, requirement scores, and promotion criteria.
 - 2026-06-05: Added [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]] so the next live runner trial can attach branch proof, durable logs, secret-safety scan, dependency changes, and verification evidence.
+- 2026-06-06: Added [[Durable Agent Runner Requirements/Runner Promotion Decision Card]] to convert the next live-trial proof packet into an explicit promote / pilot-only / hold decision.
