@@ -4,8 +4,8 @@ status: active
 package: "[[Durable Agent Runner Requirements]]"
 github_repo: "https://github.com/vinayclawagent-art/durable-agent-runner-requirements"
 cadence: nightly
-last_improved: 2026-06-06
-next_focus: fill the live runner trial packet during the next Mission Control runner trial, then attach its evidence and promotion decision blocks to the handoff summary
+last_improved: 2026-06-07
+next_focus: Use the kickoff card to select the next runner trial, confirm branch/log/evidence expectations, then fill the existing Live Runner Trial Packet.
 tags: [improvement-loop, x-artifact-factory, agent-workflows]
 ---
 
@@ -23,6 +23,8 @@ Turn [[Cursor Cloud Agent Lessons as Durable Execution Pattern]] into a reusable
 - 2026-06-06: Added [[../Prototypes/Durable Agent Runner Requirements/Runner Promotion Decision Card]] so the next proof packet ends in an auditable promote / pilot-only / hold call.
 - 2026-06-06: Added [[../Prototypes/Durable Agent Runner Requirements/Live Runner Trial Packet]] to sequence readiness scoring, evidence attachment, promotion decision, and handoff text for the next real runner trial.
 
+- 2026-06-07: Added [[../Prototypes/Durable Agent Runner Requirements/Live Runner Trial Kickoff Card]] so the next real trial starts with scope, guardrails, evidence expectations, and a no-fabrication handoff prompt.
+
 ## Next focus
-- Fill [[../Prototypes/Durable Agent Runner Requirements/Live Runner Trial Packet]] during the next live Mission Control runner trial; it links the evidence attachment, promotion card, and handoff summary without claiming validation is complete.
-- If the runner gate gets reused in a real acceptance run, promote or merge the skill draft.
+- Use the kickoff card to select the next runner trial, confirm branch/log/evidence expectations, then fill the existing Live Runner Trial Packet.
+- Keep the card blank until a real trial fills actual outputs.

@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/durable-agent-runner-require
 score: 8
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-06
+last_improved: 2026-06-07
 tags: [artifact-package, x-intel, agent-workflows]
 ---
 
@@ -32,6 +32,8 @@ Cursor’s cloud-agent lessons map directly to Hermes/Mission Control: durable l
 - Infographic: [[Durable Agent Runner Requirements Workflow]]
 - Skill draft: [[durable-agent-runner-requirements/SKILL]]
 - Improvement loop: [[Durable Agent Runner Requirements Loop]]
+
+- Kickoff card: [[Durable Agent Runner Requirements/Live Runner Trial Kickoff Card]]
 
 ## Prototype brief
 A requirements checklist for evaluating or building any cloud agent runner before trusting it with real code or ops work.
@@ -62,3 +64,4 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 - 2026-06-05: Added [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]] so the next live runner trial can attach branch proof, durable logs, secret-safety scan, dependency changes, and verification evidence.
 - 2026-06-06: Added [[Durable Agent Runner Requirements/Runner Promotion Decision Card]] to convert the next live-trial proof packet into an explicit promote / pilot-only / hold decision.
 - 2026-06-06: Added [[Durable Agent Runner Requirements/Live Runner Trial Packet]] to bundle readiness score, evidence attachment, promotion decision, and handoff fields for the next real runner trial without inventing proof.
+- 2026-06-07: Added [[Durable Agent Runner Requirements/Live Runner Trial Kickoff Card]] as the pre-trial scope/guardrail card for the next real-world run.
