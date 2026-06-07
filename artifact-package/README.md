@@ -28,6 +28,7 @@ Cursor’s cloud-agent lessons map directly to Hermes/Mission Control: durable l
 - Handoff summary: [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]]
 - Evidence template: [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]]
 - Decision card: [[Durable Agent Runner Requirements/Runner Promotion Decision Card]]
+- Trial packet: [[Durable Agent Runner Requirements/Live Runner Trial Packet]]
 - Infographic: [[Durable Agent Runner Requirements Workflow]]
 - Skill draft: [[durable-agent-runner-requirements/SKILL]]
 - Improvement loop: [[Durable Agent Runner Requirements Loop]]
@@ -50,6 +51,7 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 - Run `runner-readiness-checklist.html` against one Mission Control runner and archive the copied handoff summary. ✅ Done with [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]].
 - Create an attachable proof packet for the next live runner trial. ✅ Done with [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]].
 - Add a promotion decision card so live runner proof turns into an auditable promote / pilot-only / hold call. ✅ Done with [[Durable Agent Runner Requirements/Runner Promotion Decision Card]].
+- Add a single live-trial packet that sequences readiness scoring, evidence attachment, promotion decision, and copied handoff. ✅ Done with [[Durable Agent Runner Requirements/Live Runner Trial Packet]].
 - Decide whether to merge the skill draft into an existing skill or promote it after a live runner trial attaches durable logs.
 
 ## Change log
@@ -59,3 +61,4 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 - 2026-06-05: Archived [[Durable Agent Runner Requirements/Handoff Summary - Mission Control Background Agent Gate]] with a pilot-only decision, requirement scores, and promotion criteria.
 - 2026-06-05: Added [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]] so the next live runner trial can attach branch proof, durable logs, secret-safety scan, dependency changes, and verification evidence.
 - 2026-06-06: Added [[Durable Agent Runner Requirements/Runner Promotion Decision Card]] to convert the next live-trial proof packet into an explicit promote / pilot-only / hold decision.
+- 2026-06-06: Added [[Durable Agent Runner Requirements/Live Runner Trial Packet]] to bundle readiness score, evidence attachment, promotion decision, and handoff fields for the next real runner trial without inventing proof.

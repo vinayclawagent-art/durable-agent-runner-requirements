@@ -8,10 +8,11 @@ Use `runner-readiness-checklist.md` before trusting a background/cloud agent run
 - [[Handoff Summary - Mission Control Background Agent Gate]] — archives a copied HTML-checklist handoff summary with pilot-only decision, requirement scores, blockers, and promotion criteria.
 - [[Runner Trial Evidence Attachment Template]] — adds the missing proof packet for the next live runner trial: branch proof, durable log, secret-safety scan, dependency changes, verification, and promotion decision.
 - [[Runner Promotion Decision Card]] — converts the next filled evidence attachment into a source-backed promote / pilot-only / hold decision with explicit gates.
+- [[Live Runner Trial Packet]] — orders the readiness checklist, evidence attachment, promotion card, and handoff summary into one fillable proof packet for the next real runner trial.
 
 ## Next iteration
 
-Run the HTML gate against the next real runner trial, fill [[Runner Trial Evidence Attachment Template]], then use [[Runner Promotion Decision Card]] to record the final promote / pilot-only / hold call.
+Run [[Live Runner Trial Packet]] during the next real runner trial so checklist score, branch/log proof, verification output, decision gates, and handoff text are captured in one place.
 
 ## What it demonstrates
 A requirements checklist for evaluating or building any cloud agent runner before trusting it with real code or ops work.
@@ -22,5 +23,6 @@ Open `runner-readiness-checklist.html` for an interactive score, or `runner-read
 ## Next iteration ideas
 - Fill [[Runner Trial Evidence Attachment Template]] during the next live runner trial, then attach it to [[Handoff Summary - Mission Control Background Agent Gate]].
 - Fill [[Runner Promotion Decision Card]] immediately after the evidence attachment so the trial produces a decision, not just raw notes.
+- Fill [[Live Runner Trial Packet]] as the canonical proof packet before updating the package with completed validation evidence.
 - Add export-to-markdown download after a real use proves the fields are stable.
 - Link one accepted runner trial back into the package note.
