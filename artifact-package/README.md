@@ -29,6 +29,7 @@ Cursor’s cloud-agent lessons map directly to Hermes/Mission Control: durable l
 - Evidence template: [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]]
 - Decision card: [[Durable Agent Runner Requirements/Runner Promotion Decision Card]]
 - Trial packet: [[Durable Agent Runner Requirements/Live Runner Trial Packet]]
+- Source matrix: [[Durable Agent Runner Requirements/Runner Trial Source Matrix]]
 - Infographic: [[Durable Agent Runner Requirements Workflow]]
 - Skill draft: [[durable-agent-runner-requirements/SKILL]]
 - Improvement loop: [[Durable Agent Runner Requirements Loop]]
@@ -54,6 +55,7 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 - Create an attachable proof packet for the next live runner trial. ✅ Done with [[Durable Agent Runner Requirements/Runner Trial Evidence Attachment Template]].
 - Add a promotion decision card so live runner proof turns into an auditable promote / pilot-only / hold call. ✅ Done with [[Durable Agent Runner Requirements/Runner Promotion Decision Card]].
 - Add a single live-trial packet that sequences readiness scoring, evidence attachment, promotion decision, and copied handoff. ✅ Done with [[Durable Agent Runner Requirements/Live Runner Trial Packet]].
+- Add a source matrix so promotion claims cite exact issues, branches, logs, diffs, and verification outputs before a decision. ✅ Done with [[Durable Agent Runner Requirements/Runner Trial Source Matrix]].
 - Decide whether to merge the skill draft into an existing skill or promote it after a live runner trial attaches durable logs.
 
 ## Change log
@@ -65,3 +67,4 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 - 2026-06-06: Added [[Durable Agent Runner Requirements/Runner Promotion Decision Card]] to convert the next live-trial proof packet into an explicit promote / pilot-only / hold decision.
 - 2026-06-06: Added [[Durable Agent Runner Requirements/Live Runner Trial Packet]] to bundle readiness score, evidence attachment, promotion decision, and handoff fields for the next real runner trial without inventing proof.
 - 2026-06-07: Added [[Durable Agent Runner Requirements/Live Runner Trial Kickoff Card]] as the pre-trial scope/guardrail card for the next real-world run.
+- 2026-06-08: Added [[Durable Agent Runner Requirements/Runner Trial Source Matrix]] so the next live runner trial can map every promotion claim to exact source evidence before a decision.
