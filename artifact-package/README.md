@@ -7,7 +7,7 @@ github_repo: "https://github.com/vinayclawagent-art/durable-agent-runner-require
 score: 8
 artifact_tracks: [prototype, infographic, skill]
 improvement_cadence: nightly
-last_improved: 2026-06-07
+last_improved: 2026-06-11
 tags: [artifact-package, x-intel, agent-workflows]
 ---
 
@@ -30,6 +30,7 @@ Cursor’s cloud-agent lessons map directly to Hermes/Mission Control: durable l
 - Decision card: [[Durable Agent Runner Requirements/Runner Promotion Decision Card]]
 - Trial packet: [[Durable Agent Runner Requirements/Live Runner Trial Packet]]
 - Source matrix: [[Durable Agent Runner Requirements/Runner Trial Source Matrix]]
+- Post-trial debrief: [[Durable Agent Runner Requirements/Runner Post-Trial Debrief Template]]
 - Infographic: [[Durable Agent Runner Requirements Workflow]]
 - Skill draft: [[durable-agent-runner-requirements/SKILL]]
 - Improvement loop: [[Durable Agent Runner Requirements Loop]]
@@ -56,6 +57,7 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 - Add a promotion decision card so live runner proof turns into an auditable promote / pilot-only / hold call. ✅ Done with [[Durable Agent Runner Requirements/Runner Promotion Decision Card]].
 - Add a single live-trial packet that sequences readiness scoring, evidence attachment, promotion decision, and copied handoff. ✅ Done with [[Durable Agent Runner Requirements/Live Runner Trial Packet]].
 - Add a source matrix so promotion claims cite exact issues, branches, logs, diffs, and verification outputs before a decision. ✅ Done with [[Durable Agent Runner Requirements/Runner Trial Source Matrix]].
+- Add a post-trial debrief so source-backed evidence turns into README/prototype/skill patch decisions after the real trial. ✅ Prepared with [[Durable Agent Runner Requirements/Runner Post-Trial Debrief Template]].
 - Decide whether to merge the skill draft into an existing skill or promote it after a live runner trial attaches durable logs.
 
 ## Change log
@@ -68,3 +70,4 @@ https://github.com/vinayclawagent-art/durable-agent-runner-requirements
 - 2026-06-06: Added [[Durable Agent Runner Requirements/Live Runner Trial Packet]] to bundle readiness score, evidence attachment, promotion decision, and handoff fields for the next real runner trial without inventing proof.
 - 2026-06-07: Added [[Durable Agent Runner Requirements/Live Runner Trial Kickoff Card]] as the pre-trial scope/guardrail card for the next real-world run.
 - 2026-06-08: Added [[Durable Agent Runner Requirements/Runner Trial Source Matrix]] so the next live runner trial can map every promotion claim to exact source evidence before a decision.
+- 2026-06-11: Added [[Durable Agent Runner Requirements/Runner Post-Trial Debrief Template]] so the next real runner trial has a template-ready path from evidence to promote / pilot-only / iterate / hold plus concrete patch queue.
